@@ -2,13 +2,13 @@
 <html lang = "en">
 <head>
     <meta charset="UTF-8">
-    <title> Immitation PyPI </title>
+    <title> Imitation PyPI </title>
 </head>
 <body>
-    <h1> Immitation PyPI </h1>
+    <h1> Imitation PyPI </h1>
     <div> User : ${user_name} </div>
 
-    <ul>
+    <ul tal:repeat="">
         <li>fastAPI</li>
         <li>uvicorn</li>
         <li>chameleon</li>
